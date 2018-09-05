@@ -5,7 +5,10 @@
 Projet Indie Studio dans le cadre d'Epitech Paris.
 Le projet consiste à réaliser un jeu inspiré de la célèbre série Bomberman de Hudson Soft.
 L'objectif visé ici, est de nous apprendre à réaliser un jeu ainsi qu'un début de moteur de jeu.
-[Polycopier](B-CPP-401_indie.pdf)
+
+[Sujet PDF](B-CPP-401_indie.pdf)
+
+![Démo](videos/bomberman.mp4)
 
 ### Contraintes
 
@@ -75,7 +78,7 @@ Attention aux délais de récupération !
 
 Appuyez sur échap pour repartir à l'écran de démarage.
 
-### Problèmes rencontrer
+### Problèmes rencontrés
 Ayant plusieurs projets en parallèle le temps disponible pour le projet était alors assez réduit.
 Nous avons eux certains problèmes avec des membres d'équipe absents, mais nous avons réussi à nous répartir leur charge.
 Malheureusement même si les animations sont gérées, les modèles que nous avons réalisés ne disposent pas d'animations.
