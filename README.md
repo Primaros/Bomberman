@@ -8,7 +8,7 @@ L'objectif visé ici, est de nous apprendre à réaliser un jeu ainsi qu'un déb
 
 [Sujet PDF](B-CPP-401_indie.pdf)
 
-![Démo](videos/bomberman.mp4)
+Vidéo de démonstration dans /videos.
 
 ### Contraintes
 
